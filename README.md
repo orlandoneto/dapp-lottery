@@ -16,7 +16,7 @@ Tools utilized in the project:
 
 🔗 Link to Defi Used
 
-* [Github](https://gist.github.com/orlandoneto/2052cd5df292cbf754d41c75c5135e8d) - Defi Voting used
+* [Github](https://github.com/orlandoneto/defi-voting/tree/main) - Defi Voting used
 
 ## ✒️ Author
 
